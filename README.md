@@ -2,6 +2,10 @@
 
 Firmware Version	OpenWrt Backfire 10.03.1 / LuCI 0.10.0 Release (0.10.0)
 
-![DSD](./image/WebRadio_Software.png)
+![SW](./image/WebRadio_Software.png)
+
+![SW](./image/WebRadio_Scheduled_Tasks.png)
+
+![SW](./image/WebRadio_Startup.png)
 
 http://www.crystalradio.cn/thread-466848-1-1.html
