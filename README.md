@@ -29,6 +29,14 @@ openssh-sftp-server 	5.8p2-2
 ## amixer sset PCM 38%
 ![SW](./image/WebRadio_Startup.png)
 
+## SecureFx中设置mplayer、mplayer.sh等文件为可执行
+
+## libiconv.so.2、libmad.so.0文件缺失，在原机uer/lib处找到，复制到此处即可
+
+## 在SecureCRT中执行/usr/share/webradio/mplayer，确认无误
+
+## 已配置好，可收音
+
 http://www.crystalradio.cn/thread-374550-1-2.html
 
 http://www.crystalradio.cn/thread-466848-1-1.html
