@@ -16,6 +16,10 @@ kmod-usb-audio 	2.6.32.27-1
 
 kmod-usb-ohci 	2.6.32.27-1
 
+libiconv 	5
+
+libmad 	0.15.1b-3
+
 openssh-sftp-client 	5.8p2-2
 
 openssh-sftp-server 	5.8p2-2
