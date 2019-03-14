@@ -14,8 +14,6 @@ alsa-utils 	1.0.24.2-1
 
 kmod-usb-audio 	2.6.32.27-1
 
-kmod-usb-core 	2.6.32.27-1
-
 kmod-usb-ohci 	2.6.32.27-1
 
 openssh-sftp-client 	5.8p2-2
