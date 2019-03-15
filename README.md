@@ -57,9 +57,14 @@ https://blog.csdn.net/jf_xu/article/details/53996954
 
 -----------------
 https://www.npr.org/2016/04/05/472557877/npr-program-stream
+
 https://cdn.jwplayer.com/players/IWlHOEVh-KVHYWiKl.html
+
 https://content.jwplatform.com/players/IWlHOEVh-KVHYWiKl.js
+
 "playlist": "//content.jwplatform.com/v2/media/IWlHOEVh?recommendations_playlist_id=nL9ik0rw",
+
 http://content.jwplatform.com/v2/media/IWlHOEVh?recommendations_playlist_id=nL9ik0rw
+
 file	"https://nprsxsw-lh.akamaihd.net/i/prog24_1@348758/master.m3u8"
 
