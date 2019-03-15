@@ -23,6 +23,8 @@ openssh-sftp-server 	5.8p2-2
 
 ![SW](./image/WebRadio_Software.png)
 
+## */1 * * * * /usr/share/webradio/mplayer -slave -input file=/tmp/fifofile /usr/share/webradio/mp3/ququ.wav
+
 ## */1 * * * * /usr/share/webradio/mplayer -slave -input file=/tmp/fifofile -playlist /usr/share/webradio/radiolist
 
 ## */1 * * * * /usr/share/webradio/webradio.sh
