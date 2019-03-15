@@ -48,3 +48,5 @@ http://www.crystalradio.cn/thread-466848-1-1.html
 https://download.csdn.net/download/rzd4evr/4583381
 
 http://www.mplayerhq.hu/DOCS/tech/slave.txt
+
+https://blog.csdn.net/jf_xu/article/details/53996954
