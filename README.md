@@ -25,15 +25,6 @@ openssh-sftp-server 	5.8p2-2
 
 ![SW](./image/WebRadio_Software.png)
 
-## /usr/share/webradio/mplayer -slave -input file=/tmp/fifofile /usr/share/webradio/mp3/ququ.wav
-
-## /usr/share/webradio/mplayer -slave -input file=/tmp/fifofile http://wbur-sc.streamguys.com/wbur
-
-## */1 * * * * /usr/share/webradio/mplayer -slave -input file=/tmp/fifofile -playlist /usr/share/webradio/radiolist
-
-## */1 * * * * /usr/share/webradio/webradio.sh
-![SW](./image/WebRadio_Scheduled_Tasks.png)
-
 ## amixer sset PCM 38%
 ![SW](./image/WebRadio_Startup.png)
 
@@ -42,6 +33,17 @@ openssh-sftp-server 	5.8p2-2
 ## libiconv.so.2文件缺失，在原机uer/lib处找到，复制到此处即可
 
 ## 在SecureCRT中执行/usr/share/webradio/mplayer，确认无误
+
+## /usr/share/webradio/mplayer -slave -input file=/tmp/fifofile /usr/share/webradio/mp3/ququ.wav
+
+## /usr/share/webradio/mplayer -slave -input file=/tmp/fifofile http://wbur-sc.streamguys.com/wbur
+
+## */1 * * * * /usr/share/webradio/mplayer -slave -input file=/tmp/fifofile -playlist /usr/share/webradio/radiolist
+
+## */1 * * * * /usr/share/webradio/webradio.sh
+
+![SW](./image/WebRadio_Scheduled_Tasks.png)
+
 
 ## 已配置好，可收音
 
