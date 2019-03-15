@@ -12,7 +12,9 @@ kmod-usb-audio 	2.6.32.27-1
 
 kmod-usb-ohci 	2.6.32.27-1
 
-libiconv 	5
+libiconv 	5 ??
+
+libiconv-full 	1.11.1-1 ??
 
 libmad 	0.15.1b-3
 
