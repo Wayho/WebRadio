@@ -4,11 +4,7 @@
 
 http://archive.openwrt.org/backfire/10.03.1/brcm63xx/
 
-http://downloads.openwrt.org.cn/openwrtcn_img/db120/db120-openwrt.org.cn-backfire-10.03.166-0620.bin
-
-http://downloads.openwrt.org.cn/openwrtcn_img/rg100a/rg100a-openwrt.org.cn-backfire-10.03.166-0620.bin
-
-alsa-lib 	1.0.24.1-1
+http://archive.openwrt.org/backfire/10.03.1/brcm63xx/openwrt-RG100A_DB120-squashfs-cfe.bin
 
 alsa-utils 	1.0.24.2-1
 
