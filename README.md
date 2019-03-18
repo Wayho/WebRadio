@@ -40,6 +40,8 @@ openssh-sftp-server 	5.8p2-2
 
 ## */1 * * * * /usr/share/webradio/mplayer -slave -input file=/tmp/fifofile http://wbur-ogg.streamguys.com/wburlive.ogg
 
+## */1 * * * * /usr/share/webradio/mplayer -slave -input file=/tmp/fifofile mms://live.cdbs.com.cn/1056
+
 ## */1 * * * * /usr/share/webradio/mplayer -slave -input file=/tmp/fifofile -playlist /usr/share/webradio/radiolist
 
 ## */1 * * * * /usr/share/webradio/webradio.sh
