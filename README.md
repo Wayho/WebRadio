@@ -12,8 +12,6 @@ kmod-usb-audio 	2.6.32.27-1
 
 kmod-usb-ohci 	2.6.32.27-1
 
-libiconv 	5 ??
-
 libiconv-full 	1.11.1-1 ??
 
 libmad 	0.15.1b-3
@@ -30,7 +28,7 @@ openssh-sftp-server 	5.8p2-2
 
 ## SecureFx中设置mplayer、mplayer.sh等文件为可执行
 
-## libiconv.so.2文件缺失，在原机uer/lib处找到，复制到此处即可
+## 如果libiconv.so.2文件缺失，在原机uer/lib处找到，复制到此处即可
 
 ## 在SecureCRT中执行/usr/share/webradio/mplayer，确认无误
 
