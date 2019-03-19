@@ -8,11 +8,11 @@ http://archive.openwrt.org/backfire/10.03.1/brcm63xx/openwrt-RG100A_DB120-squash
 
 alsa-utils 	1.0.24.2-1
 
-kmod-usb-audio 	2.6.32.27-1
+kmod-usb-audio 	2.6.32.27-1   (not need)
 
 kmod-usb-ohci 	2.6.32.27-1   （for amixer）
 
-libiconv-full 	1.11.1-1 ??
+libiconv-full 	1.11.1-1     (libiconv.so.2)
 
 libmad 	0.15.1b-3
 
